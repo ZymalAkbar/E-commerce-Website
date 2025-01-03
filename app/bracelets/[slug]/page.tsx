@@ -1,4 +1,3 @@
-
 import React from "react";
 import Navbar from "@/app/components/navbar/page";
 import BraceletDetails from "@/app/components/braceletdetails/productdetails";
